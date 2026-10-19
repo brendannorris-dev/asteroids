@@ -1,6 +1,6 @@
 # Pygame Asteroids Simulator
 
-A modular 2D arcade simulator built using Python and Pygame. Projected served as a foundational exploration into game loop mechanics, managing states, and coordinate physics.
+A modular 2D arcade simulator built using Python and Pygame. Project served as a foundational exploration into game loop mechanics, managing states, and coordinate physics.
 
 ## Technical Implementation & Architecture
 * Vector Mathematics: Implemented 2D velocity and acceleration vectors to manage fluid player movement, logic for screen-wrapping, and collision trajectory.
